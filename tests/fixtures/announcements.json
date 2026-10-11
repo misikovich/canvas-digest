@@ -1,0 +1,7 @@
+[
+  {"id": 8001, "title": "Gruppeinndeling", "context_code": "course_101", "posted_at": "2026-10-10T09:00:00Z",
+   "read_state": "unread", "user_name": "Lecturer One", "author": {"display_name": "Lecturer One"},
+   "html_url": "https://canvas.example.edu/courses/101/discussion_topics/8001",
+   "message": "<p>Groups are <strong>ready</strong>. See <a href=\"/courses/101/files/55?wrap=1\">the list</a>.</p><div style=\"display:none\">secret</div>",
+   "attachments": [{"display_name": "groups.pdf", "url": "https://canvas.example.edu/files/55/download"}]}
+]

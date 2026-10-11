@@ -1,0 +1,15 @@
+[
+  {"id": 7001, "name": "Øving 5", "due_at": "2026-10-16T21:59:59Z", "points_possible": 10.0,
+   "html_url": "https://canvas.example.edu/courses/101/assignments/7001",
+   "description": "<p>Write a <em>loop</em>.</p>", "created_at": "2026-09-01T10:00:00Z", "updated_at": "2026-09-01T10:00:00Z",
+   "submission": {"workflow_state": "unsubmitted", "submitted_at": null, "grade": null, "score": null,
+                  "late": false, "missing": false, "excused": false}},
+  {"id": 7002, "name": "Prosjekt (no due date yet)", "due_at": null, "points_possible": 50.0,
+   "html_url": "https://canvas.example.edu/courses/101/assignments/7002", "description": null,
+   "submission": {"workflow_state": "unsubmitted", "submitted_at": null, "grade": null}},
+  {"id": 7003, "name": "Quiz 1", "due_at": "2026-10-20T21:59:59Z", "quiz_id": 4001, "points_possible": 5.0,
+   "html_url": "https://canvas.example.edu/courses/101/assignments/7003", "description": "",
+   "submission": {"workflow_state": "unsubmitted", "submitted_at": null, "grade": null}},
+  {"id": 7004, "name": "Last year's task", "due_at": "2025-10-01T21:59:59Z",
+   "html_url": "https://canvas.example.edu/courses/101/assignments/7004", "submission": null}
+]

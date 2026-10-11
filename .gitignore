@@ -1,0 +1,10 @@
+# Raw captures, sessions, scraped data — never commit (see CLAUDE.md)
+headers.txt
+items.json
+*.har
+data/
+.env
+
+__pycache__/
+*.pyc
+.venv/

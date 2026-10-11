@@ -1,0 +1,7 @@
+[
+  {"id": 101, "name": "DAT120-1 26H Grunnleggende programmering", "course_code": "DAT120-1 26H",
+   "term": {"name": "26H", "start_at": "2026-08-01T00:00:00Z", "end_at": "2026-12-31T23:00:00Z"}},
+  {"id": 102, "name": "BRH101-1 26H Etikk og samfunnsansvar", "course_code": "BRH101-1 26H",
+   "term": {"name": "26H", "start_at": "2026-08-01T00:00:00Z", "end_at": "2026-12-31T23:00:00Z"}},
+  {"id": 103, "access_restricted_by_date": true}
+]
